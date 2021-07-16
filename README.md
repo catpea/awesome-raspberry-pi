@@ -1,5 +1,5 @@
-# awesome-raspberry-pi
-Raspberry Pi Component Research
+# Awesome Raspberry Pi
+Raspberry Pi Component Research - A List Of Awesome Things Curated By The Community
 
 ## Things
 - [RasPad 3-A](https://www.sunfounder.com/products/raspberrypi-tablet-raspad) - Portable Raspberry Pi Pad to Learn & Program
