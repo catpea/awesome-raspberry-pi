@@ -5,7 +5,7 @@ Raspberry Pi Component Research - A List Of Awesome Things Curated By The Commun
 - [RasPad 3-A](https://www.sunfounder.com/products/raspberrypi-tablet-raspad) - Portable Raspberry Pi Pad to Learn & Program
 
 ## Projects
-- https://projects.raspberrypi.org/en/projects/ - Raspberry Pi Projects
+- https://projects.raspberrypi.org/en/projects/ - Raspberry Pi Ideas
 
 ## Shops
 - https://shop.pimoroni.com/ - Pimoroni: Raspberry Pi, Adafruit, micro:bit, and Arduino in the UK
