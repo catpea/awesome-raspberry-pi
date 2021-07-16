@@ -1,6 +1,9 @@
 # awesome-raspberry-pi
 Raspberry Pi Component Research
 
+## Things
+- [RasPad 3-A](https://www.sunfounder.com/products/raspberrypi-tablet-raspad) - Portable Raspberry Pi Pad to Learn & Program
+
 ## Projects
 - https://projects.raspberrypi.org/en/projects/ - Raspberry Pi Projects
 
