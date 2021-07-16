@@ -17,6 +17,12 @@ Raspberry Pi Component Research
 - https://uk.farnell.com/ - Farnell UK - Electronic Components Distributor
 - https://hifimediy.com/ - Hifime Audio |  DAC’s, Amplifiers, Power supplies
 - https://www.mikroe.com/ - Hardware and Software Tools for the Embedded World - MikroElektronika
+- https://geekworm.com/ - All for Raspberry Pi, Jetson Nano, Arduino, Lattepanda
+- https://www.sunfounder.com/ - SunFounder focuses on STEM education with Open-Source robots
+
+### Other
+- https://www.makerhawk.com/ - Small Electronic Components Distributor
+
 
 ## Audio Software
 - http://www.rpimusicplayer.com/ - Turn your Raspberry Pi into a music player.
@@ -27,6 +33,7 @@ Raspberry Pi Component Research
 ## Digital-To-Analog Converter (DAC) Soundcards
 - https://www.hifiberry.com/ - HiFiBerry brings you elegant, easy-to-install, high-fidelity playback.
 - https://collybia.com/ - Mamboberry HD DAC+ v2 an audiophile dac-hat for the Rpi market.
-
+ 
 
 [1]: https://learn.sparkfun.com/tutorials/getting-started-with-the-lilypad-mp3-player
+ 
