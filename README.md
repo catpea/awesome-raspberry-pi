@@ -9,6 +9,7 @@ Raspberry Pi Component Research
 - https://www.adafruit.com/ - Adafruit Industries, Unique & fun DIY electronics and kits
 - https://www.canakit.com/ - Raspberry Pi Kits and Raspberry Pi Boards and Accessories
 - https://www.pishop.us/ - One of the largest distributors of Raspberry Pi products and accessories.
+- https://uk.pi-supply.com/ - Pi Supply, The Maker Emporium
 - https://www.sparkfun.com/ - SparkFun Electronics, Start Something
 - https://www.digikey.com/ - Electronic Components Distributor
 - https://www.mouser.com/ - Electronic Components Distributor
@@ -19,7 +20,7 @@ Raspberry Pi Component Research
 - https://www.mikroe.com/ - Hardware and Software Tools for the Embedded World - MikroElektronika
 - https://geekworm.com/ - All for Raspberry Pi, Jetson Nano, Arduino, Lattepanda
 - https://www.sunfounder.com/ - SunFounder focuses on STEM education with Open-Source robots
-- PiJuice HAT
+- https://www.makerfocus.com/ - Buy Open Source Hardware Arduino Raspberry Pi
 
 ### Other
 - https://www.makerhawk.com/ - Small Electronic Components Distributor
@@ -36,7 +37,11 @@ Raspberry Pi Component Research
 - https://collybia.com/ - Mamboberry HD DAC+ v2 an audiophile dac-hat for the Rpi market.
  
 ## Power
-- https://uk.pi-supply.com/products/pijuice-standard - PiJuice HAT - A Portable Power Platform For Every Raspberry Pi ([12,000 mah batt][2])
+- https://www.pisugar.com/ - Make Your Ideas More Portable
+- [PiJuice HAT - A Portable Power Platform For Every Raspberry Pi][3] ([12,000 mah batt][2] option)
+- [MakerFocus Raspberry Pi Expansion Board UPS Pack Standard Power Supply][4] (10,000 mah option)
 
 [1]: https://learn.sparkfun.com/tutorials/getting-started-with-the-lilypad-mp3-player
 [2]: https://uk.pi-supply.com/products/pijuice-12000mah-battery 
+[3]: https://uk.pi-supply.com/products/pijuice-standard
+[4]: https://www.makerfocus.com/collections/raspberry-pi/products/raspberry-pi-expansion-board-ups-pack-standard-power-supply
