@@ -19,6 +19,7 @@ Raspberry Pi Component Research
 - https://www.mikroe.com/ - Hardware and Software Tools for the Embedded World - MikroElektronika
 - https://geekworm.com/ - All for Raspberry Pi, Jetson Nano, Arduino, Lattepanda
 - https://www.sunfounder.com/ - SunFounder focuses on STEM education with Open-Source robots
+- PiJuice HAT
 
 ### Other
 - https://www.makerhawk.com/ - Small Electronic Components Distributor
@@ -34,6 +35,8 @@ Raspberry Pi Component Research
 - https://www.hifiberry.com/ - HiFiBerry brings you elegant, easy-to-install, high-fidelity playback.
 - https://collybia.com/ - Mamboberry HD DAC+ v2 an audiophile dac-hat for the Rpi market.
  
+## Power
+- https://uk.pi-supply.com/products/pijuice-standard - PiJuice HAT - A Portable Power Platform For Every Raspberry Pi ([12,000 mah batt][2])
 
 [1]: https://learn.sparkfun.com/tutorials/getting-started-with-the-lilypad-mp3-player
- 
+[2]: https://uk.pi-supply.com/products/pijuice-12000mah-battery 
