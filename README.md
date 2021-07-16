@@ -8,8 +8,10 @@ Raspberry Pi Component Research
 - https://shop.pimoroni.com/ - Pimoroni: Raspberry Pi, Adafruit, micro:bit, and Arduino in the UK
 - https://www.adafruit.com/ - Adafruit Industries, Unique & fun DIY electronics and kits
 - https://www.canakit.com/ - Raspberry Pi Kits and Raspberry Pi Boards and Accessories
-- https://www.pishop.us/ - One of the largest distributors of Raspberry Pi products and accessories in North America.
+- https://www.pishop.us/ - One of the largest distributors of Raspberry Pi products and accessories.
 - https://www.sparkfun.com/ - SparkFun Electronics, Start Something
+- https://www.digikey.com/ - Electronic Components Distributor
+- https://www.mouser.com/ - Electronic Components Distributor
 - https://www.element14.com - Electronic Resources
 - https://uk.rs-online.com/web/ - RS Components, Industrial, electronic products & solutions.
 - https://uk.farnell.com/ - Farnell UK - Electronic Components Distributor
