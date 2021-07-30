@@ -2,6 +2,7 @@
 Raspberry Pi Component Research - A List Of Awesome Things Curated By The Community
 
 ## Enclosures
+- [Card Guides](https://www.essentracomponents.com/en-us/s/card-guides)
 - http://www.evatron.com/ - Evatron
 - http://www.newageenclosures.com/ - New Age Enclosures
 - http://www.okwenclosures.com/ - OKW Enclosures
