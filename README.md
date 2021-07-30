@@ -1,6 +1,17 @@
 # Awesome Raspberry Pi
 Raspberry Pi Component Research - A List Of Awesome Things Curated By The Community
 
+## Enclosures
+- http://www.evatron.com/ - Evatron
+- http://www.newageenclosures.com/ - New Age Enclosures
+- http://www.okwenclosures.com/ - OKW Enclosures
+- http://www.pactecenclosures.com/ - PacTec
+- http://www.pei2000.com/ - Plastronic
+- http://www.plasticelectronicenclosure.com/ - EAI
+- http://www.polycase.com/ - PolyCase
+- http://www.serpac.com/ - Serpac
+- [https://www.amazon.com](https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=Project+Box+Enclosure)
+
 ## Things
 - [RasPad 3-A](https://www.sunfounder.com/products/raspberrypi-tablet-raspad) - Portable Raspberry Pi Pad to Learn & Program
 
@@ -27,7 +38,6 @@ Raspberry Pi Component Research - A List Of Awesome Things Curated By The Commun
 
 ### Other
 - https://www.makerhawk.com/ - Small Electronic Components Distributor
-
 
 ## Audio Software
 - http://www.rpimusicplayer.com/ - Turn your Raspberry Pi into a music player.
